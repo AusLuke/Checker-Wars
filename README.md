@@ -1,2 +1,2 @@
 # Checker-Wars
-Project and detailed system and object design document for an online multiplayer game Checker Wars
+Detailed system and object design specification document for an online multiplayer game Checker Wars
